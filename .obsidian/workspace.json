@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2baf3fb726a125c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello world.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,6 +159,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ba307942d6674a65",
-  "lastOpenFiles": []
+  "active": "2baf3fb726a125c6",
+  "lastOpenFiles": [
+    "systemctl 설정.md",
+    "Hello world.md",
+    "systemctl 설정 rhel 7.0.md"
+  ]
 }
